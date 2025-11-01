@@ -1,7 +1,7 @@
 // Variables globales
 let tickets = [];
 // Lista de técnicos (solo se asigna 'Sin Asignar' al crear, la asignación es simulada)
-const tecnicos = ['Sin Asignar', 'Emmanuel Pilco', 'Rodrigo Tapia', 'Naobi Fernandez', 'Rafael Gonzales'];
+const tecnicos = ['Sin Asignar', 'Emmanuel Pilco', 'Rodrigo Tapia', 'Naobi Fernandez', 'Rafael Gonzalez'];
 
 
 // -----------------------------------------------------------------------
